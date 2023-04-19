@@ -1,0 +1,14 @@
+{
+  "name": "laboratory-test-task",
+  "version": "1.0.0",
+  "description": "test task for laboratory of system technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "elena liubimova",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
